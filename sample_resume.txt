@@ -1,0 +1,20 @@
+Aarav Mehta
+
+Email: aarav.mehta@gmail.com
+Phone: +91 9876543210
+Location: Mumbai, India
+
+Summary:
+Aspiring Data Scientist with strong foundations in Python, SQL, and Machine Learning. Passionate about building data-driven solutions.
+
+Skills:
+Python, SQL, Data Analysis, Pandas, NumPy, Machine Learning, Communication, Problem Solving
+
+Projects:
+- Built a machine learning model to predict house prices using Python
+- Developed a data visualization dashboard using Matplotlib and Seaborn
+- Solved 200+ DSA problems on LeetCode
+
+Education:
+B.Tech in Computer Science
+XYZ University
